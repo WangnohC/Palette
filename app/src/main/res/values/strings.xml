@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">palettedemo</string>
+    <string name="app_name">Palette</string>
     <string name="main_activity">Main Activity</string>
     <string name="containers">Containers</string>
     <string name="layouts">Layouts</string>
