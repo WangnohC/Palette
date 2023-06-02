@@ -1,0 +1,16 @@
+<font size=5>This is an android demo of palette, include :
+- containers
+  - scroll view
+  - view pager
+- layouts
+  - linear layout
+  - table layout
+- legacy
+  - grid view
+  - list view
+  - relative layout
+- widgets
+  - image view
+  - search view
+  - video view
+  - web view
