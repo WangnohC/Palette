@@ -1,4 +1,4 @@
-<font size=5>This is an android demo of palette, include :
+<font size=5>This is a palette demo for android, include :
 - containers
   - scroll view
   - view pager
